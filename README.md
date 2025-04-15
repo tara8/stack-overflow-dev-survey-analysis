@@ -30,7 +30,7 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 
 
 ## 📁 Files
-- `survey_analysis.ipynb`: Notebook with charts, insights, and commentary
+- (stack_overflow_analysis_colab.ipynb): Notebook with charts, insights, and commentary
 
 
 ## 🧾 Certificate
