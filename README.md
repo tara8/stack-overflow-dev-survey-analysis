@@ -68,5 +68,5 @@ You can access the full Notebook here:
 ## 📜 Certification  
 
 This project was submitted as the final capstone for IBM’s Data Analyst Professional Certificate.
-You can view my certificate here: [Credential URL]([YOUR_CREDENTIAL_LINK](https://www.coursera.org/account/accomplishments/specialization/L6TIY98BDKYO))  
+You can view my certificate here: [Credential URL](https://www.coursera.org/account/accomplishments/specialization/L6TIY98BDKYO)
 
