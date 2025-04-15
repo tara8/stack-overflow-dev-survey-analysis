@@ -31,6 +31,10 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 
 ## 📁 Files
 - (stack_overflow_analysis_colab.ipynb): Notebook with charts, insights, and commentary
+## 🔗 Google Colab Notebook
+
+You can access the full Jupyter Notebook here:  
+[📄 My Colab Notebook](stack_overflow_analysis_colab.ipynb)
 
 
 ## 🧾 Certificate
