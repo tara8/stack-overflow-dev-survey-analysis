@@ -28,6 +28,11 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 ![Tab 2](Tab_2.JPG ) 
 ![Tab 3](Tab_3.JPG)
 
+## 📸 Charts Screenshots
+![Tab 1](Tab_1.JPG )
+![Tab 2](Tab_2.JPG ) 
+![Tab 3](Tab_3.JPG)
+
 ## 📁 Files
 - `survey_analysis.ipynb`: Notebook with charts, insights, and commentary
 
