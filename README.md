@@ -24,8 +24,7 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 - Continuous learning and upskilling are essential for career growth.
 
 ## 📸 Dashboard Screenshots
-(Tab_1.jpg) 
-![Talieh Davani](assets/profile.jpg)
+![Tab 1](/tab1.png)  
 ![Tab 2](dashboard_screenshots/tab2.png)  
 ![Tab 3](dashboard_screenshots/tab3.png)
 
