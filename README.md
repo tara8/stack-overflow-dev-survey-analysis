@@ -9,13 +9,13 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 
 ## 📊 Key Sections
 - Programming Language Trends
-- Database Trends![Tab_1](https://github.com/user-attachments/assets/fd833384-45e5-4e9a-adb1-d23b6427ad5e)
+- Database Trends
 
 - Salary & Job Satisfaction Analysis
 - Regional Developer Insights
 - Dashboard Visualizations
 - Implications for Developers, Employers, Educators
-![Tab_2](https://github.com/user-attachments/assets/cc7f06d5-fbf1-4ba2-b1d1-40226155e164)
+
 
 ## 🧠 Key Takeaways
 - Python, JavaScript, and SQL dominate, with TypeScript and Rust on the rise.
@@ -24,8 +24,8 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 - Continuous learning and upskilling are essential for career growth.
 
 ## 📸 Dashboard Screenshots
-![Tab 1](dashboard_screenshots/tab1.png)  
-![Tab 2](dashboard_screenshots/tab2.png)  
+![Tab 1][Tab_1](https://github.com/user-attachments/assets/fd833384-45e5-4e9a-adb1-d23b6427ad5e)(dashboard_screenshots/tab1.png)  
+![Tab 2]![Tab_2](https://github.com/user-attachments/assets/cc7f06d5-fbf1-4ba2-b1d1-40226155e164) 
 ![Tab 3](dashboard_screenshots/tab3.png)
 
 ## 📁 Files
