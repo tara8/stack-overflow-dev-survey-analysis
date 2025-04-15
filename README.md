@@ -30,7 +30,7 @@ This project explores key insights from the Stack Overflow Developer Survey, ana
 
 ## 📁 Files
 - `survey_analysis.ipynb`: Notebook with charts, insights, and commentary
-- `dashboard_screenshots/`: Snapshots from Power BI dashboard
+
 
 
 ## 🧾 Certificate
