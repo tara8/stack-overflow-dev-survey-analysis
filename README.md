@@ -63,6 +63,9 @@ The **tech industry is evolving rapidly**, with developers increasingly **upskil
 You can access the full Notebook here:  
 [📄 My Colab Notebook](stack_overflow_analysis_colab.ipynb)
 
+## 📢 Capstone Presentation  
+
+You can view my presentation here: [Presentation Link](2024-capstone-story-template 2 1.pdf)  
 
 
 ## 📜 Certification  
