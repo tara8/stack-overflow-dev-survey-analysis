@@ -57,15 +57,25 @@ The **tech industry is evolving rapidly**, with developers increasingly **upskil
 
 
 
-## 🔗 Google Colab Notebook
+## 🔗 Google Colab Notebook  
 
-- (stack_overflow_analysis_colab.ipynb): Notebook with charts, insights, and commentary
-You can access the full Notebook here:  
-[📄 My Colab Notebook](stack_overflow_analysis_colab.ipynb)
+📄 **Stack Overflow Analysis Colab Notebook**  
+- **Filename:** `stack_overflow_analysis_colab.ipynb`  
+- **Contents:** Charts, insights, and commentary  
+
+🔍 Access the full notebook here:  
+[📄 Open My Colab Notebook](stack_overflow_analysis_colab.ipynb)  
+
 
 ## 📢 Capstone Presentation  
 
-You can view my presentation here: [Presentation Link](2024-capstone-story-template 2 1.pdf)  
+📄 **Capstone Presentation:**  
+- **Filename:** `2024-capstone-story-template 2 1.pdf`  
+- **Contents:** Key findings, insights, and project summary  
+
+🔍 View my full presentation here:  
+[📄 Open Presentation](2024-capstone-story-template%202%201.pdf)  
+  
 
 
 ## 📜 Certification  
